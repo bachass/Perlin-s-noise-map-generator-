@@ -6,3 +6,4 @@ Generates a 2D terrain map using Perlin noise
 Supports multiple terrain types (water, sand, grass, and forest) 
 Visualizes the map using Matplotlib 
 Allows for customization of map size, noise scale, and terrain types
+<img width="1000" height="800" alt="seed2" src="https://github.com/user-attachments/assets/d0e72622-7440-454f-bce3-5f988ee399d2" />
